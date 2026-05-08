@@ -92,7 +92,7 @@
 
 ---
 
-<h2 style="text-align: center;">📫 Connect with Me</h2>
+<h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
 
