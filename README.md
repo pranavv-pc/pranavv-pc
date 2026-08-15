@@ -17,14 +17,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&color=ED8B00)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
----
-
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
 
 ### ⚙️ Backend
 
@@ -32,15 +28,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 
----
-
 ### 🗄️ Databases & Storage
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
 
 ### 🛠️ DevOps & Tools
 
@@ -48,48 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td>
-
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavv-pc&theme=github_dark"
-  width="100%"
-  alt="Top Languages"
-/>
-
-</td>
-
-<td>
-
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavv-pc&theme=github_dark"
-  alt="GitHub Stats"
-/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img
-  src="https://github-readme-streak-stats-vijaypur.vercel.app?user=pranavv-pc&theme=github-dark-blue"
-  alt="GitHub Streak"
-/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -103,7 +53,7 @@
 &nbsp;&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/pranavv_pc/)
 &nbsp;&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/pranavv_pc)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/pranav_pc)
 
 </div>
 
