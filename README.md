@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Pranav Chaudhari 👋</h1>
+<h1>Hi, I'm Pranav Chaudhari 👋</h1>
 
-<h3 align="center">
+<h3>
   Passionate Developer • Problem Solver • Tech Enthusiast
 </h3>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
 ### 🌐 Languages
 
@@ -43,17 +43,13 @@
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2>Connect with Me</h2>
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/pranav-pc)
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pranavchaudhari.work@gmail.com)
-&nbsp;&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/pranavv_pc/)
-&nbsp;&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/pranav_pc)
 
 </div>
 
